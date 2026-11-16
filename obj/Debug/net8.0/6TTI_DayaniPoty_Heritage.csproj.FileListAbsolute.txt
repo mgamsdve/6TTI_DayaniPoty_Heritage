@@ -12,3 +12,4 @@
 /Users/mgams/Cours/6TTI_DayaniPoty_Heritage/obj/Debug/net8.0/6TTI_DayaniPoty_Heritage.pdb
 /Users/mgams/Cours/6TTI_DayaniPoty_Heritage/obj/Debug/net8.0/6TTI_DayaniPoty_Heritage.genruntimeconfig.cache
 /Users/mgams/Cours/6TTI_DayaniPoty_Heritage/obj/Debug/net8.0/ref/6TTI_DayaniPoty_Heritage.dll
+/Users/mgams/Cours/6TTI_DayaniPoty_Heritage/obj/Debug/net8.0/6TTI_DayaniPoty_Heritage.sourcelink.json

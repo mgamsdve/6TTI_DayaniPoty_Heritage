@@ -21,7 +21,7 @@ class Program
         Velo velo = new Velo("VTT", false, "Rockrider", "Decathlon", "Noir", 500m);
         Console.WriteLine(velo.Affiche());
         
-        
-        
+        Vehicule vehicule = new Velo("Route", true, "Autre", "autre", "Rouge", 1200m);
+        Console.WriteLine(vehicule.Affiche());
     }
 }

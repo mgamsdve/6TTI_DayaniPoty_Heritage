@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6TTI_DayaniPoty_Heritage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7fbf1b5c68211b43f6916a57cc1cc70d77501d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("6TTI_DayaniPoty_Heritage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6TTI_DayaniPoty_Heritage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
